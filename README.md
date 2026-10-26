@@ -8,7 +8,7 @@ Installation Instructions:
    (If you don't see this option, select "Open in PowerShell" or type "cmd" into the address bar)
 4. Copy and paste the following command into the window that appears, then press Enter:
 
-       ```node patch-discord.mjs```
+       node patch-discord.mjs
 
 5. Launch Discord and press Ctrl + B to use the tool.
 
