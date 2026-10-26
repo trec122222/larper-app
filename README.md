@@ -9,7 +9,7 @@ Installation Instructions:
 4. Copy and paste the following command into the window that appears, then press Enter:
 
 =======================================================
->>>   node patch-discord.mjs   <<<
+```node patch-discord.mjs```
 =======================================================
 
 5. Launch Discord and press Ctrl + B to use the tool.
