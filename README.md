@@ -12,4 +12,6 @@ Installation Instructions:
 
 5. Launch Discord and press Ctrl + B to use the tool.
 
+Larper By Cutins & Siz
+
 Join the server for troubleshooting: https://discord.com/invite/MwZJ8azqrv
