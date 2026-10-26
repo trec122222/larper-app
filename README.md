@@ -1,11 +1,11 @@
 # LARPER - Profile Customization Tool
-====================================
+========================================
 
-Hướng dẫn cài đặt:
-1. Cài Node.js: https://nodejs.org/ (bản LTS)
-2. Tắt Discord HOÀN TOÀN (chuột phải icon Discord > Quit)
-3. Mở thư mục này, chuột phải chỗ trống > Open in Terminal
-4. Gõ lệnh: node patch-discord.mjs
-5. Mở Discord lên, bấm Ctrl + B để sử dụng.
+Setup Instructions:
+1. Install Node.js: https://nodejs.org/ (LTS version)
+2. Close Discord COMPLETELY (right-click the Discord icon > Quit)
+3. Open this folder, right-click in an empty space > Open in Terminal
+4. Run the command: node patch-discord.mjs
+5. Launch Discord and press Ctrl + B to use.
 
-Vào server để fix bug https://discord.com/invite/MwZJ8azqrv
+Join the server for troubleshooting: https://discord.com/invite/MwZJ8azqrv
